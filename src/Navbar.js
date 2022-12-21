@@ -1,4 +1,5 @@
 import companyLogo from './images/logo.png';
+
 export default function Navbar(){
     return <nav className = "nav">
         <a href = "/" className = "site-title"><img src={companyLogo} alt="BigCo Inc. logo"/></a>
