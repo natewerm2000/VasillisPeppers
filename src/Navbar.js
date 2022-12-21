@@ -1,12 +1,12 @@
 export default function Navbar(){
     return <nav className = "nav">
-        <a href = "/" className = "site-title"> Site Name</a>
+        <a href = "/" className = "site-title"> Naate</a>
         <ul>
             <li>
                 <a href = "/shop">Shop</a>
             </li>
             <li>
-                <a href = "/contact">contact</a>
+                <a href = "/contact">Contact</a>
             </li>
         </ul>
     </nav>
