@@ -14,9 +14,12 @@ function App() {
     case "/shop":
       Component = Shop
       break
-      case "/contact":
+    case "/contact":
         Component = Contact
         break
+    default:
+      Component = Home
+      break
   }
   return (
     <>

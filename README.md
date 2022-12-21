@@ -1,3 +1,6 @@
+# Vasilli's Peppers
+From seed to fruit to jelly. All under one roof.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

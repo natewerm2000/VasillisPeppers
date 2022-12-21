@@ -1,6 +1,6 @@
 import companyLogo from './images/logo.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faFacebook} from '@fortawesome/free-brands-svg-icons'
+// import { faFacebook} from '@fortawesome/free-brands-svg-icons'
 import { faCartShopping } from '@fortawesome/free-solid-svg-icons'
 import { faAddressCard } from '@fortawesome/free-solid-svg-icons'
 
