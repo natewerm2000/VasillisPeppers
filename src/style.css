@@ -8,8 +8,8 @@ body{
 }
 
 .nav{
-    background: grey;
-    color: white;
+    background: #232B2B;
+    color: #DC3D24;
     display: flex;
     justify-content: space-between;
     align-items: stretch;
@@ -18,6 +18,12 @@ body{
 }
 .site-title{
     font-size: 2rem;
+    
+}
+.site-title img{
+    padding: 5px;
+  width: 150px;
+    
 }
 
 .nav ul{
