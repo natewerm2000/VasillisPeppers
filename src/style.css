@@ -4,7 +4,7 @@
 
 body{
     margin:0;
-
+    background:#DC3D24;
 }
 
 .nav{
@@ -15,20 +15,22 @@ body{
     align-items: stretch;
     gap:2rem;
     padding:0 1rem;
+   
 }
 .site-title{
     font-size: 2rem;
     
 }
 .site-title img{
-    padding: 5px;
-  width: 150px;
+ padding: 5px;
+  width: 9rem;
     
 }
 
 .nav ul{
     padding: 0;
     margin: 0;
+    font-size: 36px;
     list-style: none;
     display: flex;
     gap: 1rem
@@ -47,5 +49,5 @@ body{
 }
 
 .nav li:hover{
-    background: blue;
+    border-style: double;
 }
