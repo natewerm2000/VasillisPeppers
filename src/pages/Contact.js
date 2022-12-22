@@ -2,7 +2,7 @@
 import '../style.css';
 
 
-export default function Contact(){
+export default function Contact() {
     return <form>
         <label htmlFor="name">Name</label>
         <input type="text" id="name" name="name" />

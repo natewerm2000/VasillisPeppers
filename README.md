@@ -1,5 +1,6 @@
 # Vasilli's Peppers
 From seed to fruit to jelly. All under one roof.
+We are to use React to build this project.
 
 # Getting Started with Create React App
 
