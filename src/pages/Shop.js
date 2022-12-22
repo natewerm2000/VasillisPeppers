@@ -1,4 +1,6 @@
-import jelly from '../images/logo.png';
+import jelly from '../images/jelly1.PNG';
+import spice from '../images/spice.PNG';
+import '../style2.scss';
 
 export default function Shop(){
     return <div className = "shop">
@@ -7,16 +9,32 @@ export default function Shop(){
         <img src={jelly} alt=""/>
         <div class="container">
             <h4><b>Hot Pepper Jelly</b></h4> 
-            <p>dsahdkwjkdhaklwdhdlhwadkwajhd</p> 
+            <p>dsahdkwjkdhaklwdhdlhwadkwajhd</p>
+            <button class="button" id>
+	                    Buy
+	                <div class="button__horizontal"></div>
+	            <div class="button__vertical"></div>
+            </button> 
+            <div id = "space"></div>
         </div>
     </div>
     <div id = "space"></div>
+    
     <div class="card">
-        <img src={jelly} alt=""/>
+        <div class="box">
+        <img src={spice} alt=""/></div>
         <div class="container">
             <h4><b>Hot Pepper Seasonings</b></h4> 
             <p>dsahdkwjkdhaklwdhdlhwadkwajhd</p> 
+            <button class="button" id>
+	                    Buy
+	                <div class="button__horizontal"></div>
+	            <div class="button__vertical"></div>
+            </button>
+            <div id = "space"></div>
         </div>
+        
     </div>
+    
 </div>
 }
