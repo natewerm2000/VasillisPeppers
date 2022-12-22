@@ -10,11 +10,13 @@ export default function Shop(){
         <div class="container">
             <h4><b>Hot Pepper Jelly</b></h4> 
             <p>dsahdkwjkdhaklwdhdlhwadkwajhd</p>
-            <button class="button" id>
+            <a href="/home">
+            <button class="button">
 	                    Buy
 	                <div class="button__horizontal"></div>
 	            <div class="button__vertical"></div>
             </button> 
+            </a>
             <div id = "space"></div>
         </div>
     </div>
@@ -26,11 +28,13 @@ export default function Shop(){
         <div class="container">
             <h4><b>Hot Pepper Seasonings</b></h4> 
             <p>dsahdkwjkdhaklwdhdlhwadkwajhd</p> 
-            <button class="button" id>
+            <a href="/home">
+            <button class="button" >
 	                    Buy
 	                <div class="button__horizontal"></div>
 	            <div class="button__vertical"></div>
             </button>
+            </a>
             <div id = "space"></div>
         </div>
         
